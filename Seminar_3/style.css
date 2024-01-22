@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url(./fonts/OpenSans-VariableFont_wdth\wght.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #020a18;
+  width: 1920px;
+  height: 3594px;
+  font-family: "Open Sans";
+}
+
+header {
+  margin-bottom: 101px;
+  height: 100px;
+  gap: 39px;
+  padding: 39px;
+}
+
+a {
+  color: #fff;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+}
+.small {
+  margin-top: 60px;
+}
+h3 {
+  color: #3a68b8;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+  text-transform: uppercase;
+}
+.main_title {
+  width: 604px;
+  font-family: "Open Sans";
+  color: #fff;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 130%;
+  margin-top: 10px;
+}
+.text_main_page {
+  color: #fff;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+  opacity: 0.7;
+  width: 558px;
+  margin-top: 40px;
+}
+.buttons_main button {
+  color: #fff;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 15px 30px;
+  background-color: #3a68b8;
+  border-radius: 5px;
+}
