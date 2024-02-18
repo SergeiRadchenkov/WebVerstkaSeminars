@@ -1,0 +1,19 @@
+.carousel-control-next-icon {
+  background-image: url(/Seminar_10/img/right1.png);
+}
+
+.carousel-control-prev-icon {
+  filter: brightness(0) saturate(100%) invert(10%) sepia(100%) saturate(7294%)
+    hue-rotate(1deg) brightness(118%) contrast(96%);
+}
+
+.dropdown-toggle {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-image: var(--bs-navbar-toggler-icon-bg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
